@@ -61,6 +61,38 @@ Tips Git:
 -git checkout master					//para cambiar el prompt a la rama master
 -gitk --all 							//para ver todos los branch
 
+Las espectativa de la materia SQA del curso de QADEV07
+Antes de dar tales espetativas, me gustaria primero definir que es SQA, y esto es Software Quality Assurance, que traducido 
+seria Aseguramiento del control de calidad. Aunque al principio podria sonar como una redundacia, es de vital importancia que
+un producto (en este caso un software) sea revisado una y otra vez hasta obtener la calidad deseada; haciendo uso de una
+metafora, un buen software de calidad es como un diamante en bruto, como tal no es muy vistoso y no valdria tanto como un 
+diamante que a pasado por procesos ,como por ejemplo,  de tallado de precision, o un pulido a fondo. SQA se encarga de todo
+eso, hacer que nuestro software no solo cumpla los requisitos minimos requeridos, sino que los supere y mas importante aun
+que deje a nuestro usuario final con la satisfaccion de que esta comprando un software de calidad y que nuestra imagen como 
+aseguradores de calidad se destaque por sobre otro software similar.
 
+Es por ende, que redacto que mis espectativas del curso SQA son las aprender y conocer muy a fondo las diferentes tecnicas
+y procesos que conllevan hacer no solo un buen control de calidad, sino hacer un trabajo que rebase toda expectativa
+ya sea por parte de nuestros usuarios finales o de nuestra competencia. Espero que mi estadia por Jala sea aquella que
+fundamente este conociemiento y me lleve a nuevas alturas.
+
+Y ahora para compartir les dejo este chiste, lo que nos recuerda que hay momentos para todo en esta vida, y por que no, una
+sonrisa de vez en cuando no cae mal :D.
+
+        Un hombre está volando en un globo aerostático y se da cuenta de que se encuentra perdido. 
+        Mientras hace algunas maniobras ve a un tipo caminando por el campo. El hombre hace descender 
+        el globo algunos metros y grita:
+        - Perdone, ¿me puede decir dónde estoy?.
+        A lo que el hombre que está abajo responde:
+        - Usted está en un globo aerostático, suspendido a unos 10 metros del suelo.
+        - Usted es informático ¿verdad?, - dice el del globo -.
+        - Así es, dice el de abajo. ¿Cómo se ha dado cuenta?.
+        - Bueno, dice el del globo. Todo lo que usted me ha dicho es técnicamente correcto, pero no resulta 
+        de utilidad para nadie.
+        Y el de abajo responde:
+        - Y usted debe de ser un usuario de computadora.
+        - Exacto, responde el del globo, ¿Cómo lo ha sabido?.
+        - Sencillo. Usted no sabe dónde se encuentra, ni hacia dónde va, pero espera que yo le pueda ayudar. 
+        Usted está en la misma situación que antes de que nos encontrásemos, pero ahora cree que la culpa la tengo yo.
 
 
