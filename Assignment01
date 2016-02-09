@@ -35,3 +35,25 @@ Llama la atención, en medio del aluminio, los modernos cableados, el complejo s
 Cada piso de Jalasoft tiene espacio para una minicafetería donde los empleados pueden hacer un alto al trabajo y disfrutar de un café especial, o de alguna fruta o jugo. Eso sí, no se subvencionan las bebidas artificiales".
 Link: http://www.telecombol.com/2011/09/jalasoft-revolucion-tecnologica.html
 
+
+Tips Git:
+-git clone "url.del.repositorio"   		//para clonar un repositorio
+-git pull origin master					//para actualizar el repositorio local de la rama master
+-git status								//para mostrar el estado de los archivos(modificados, eliminados, etc)
+-git add .								//para agregar todos los archivos al commit 
+-git commit -m "mensaje del commit"		//para confirmar los archivos añadidos
+-git push origin master					//para subir todos los archivos confirmados a la rama master
+-git push origin "NombreDeLaRama"		//para subir todos los archivos confirmados a la rama especificada
+
+
+-git merge master						//para unir la rama actual con el master
+-git pull origin "NombreDeLaRama"		//para actualizar el repositorio local de la rama especificada
+-git branch "NombreDeLaNuevaRama"		//para crear una nueva rama
+-git checkout "NombreDeLaRama" 			//para cambiar el prompt a la rama especificada
+-git checkout -d "NombreDeLaNuevaRama"	//para crear nueva rama y cambiar el prompt a la rama creada
+-git checkout master					//para cambiar el prompt a la rama master
+-gitk --all 							//para ver todos los branch
+
+
+
+
